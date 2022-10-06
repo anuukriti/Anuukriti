@@ -1,8 +1,8 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://github.com/Anuukriti)
 <h1 align="center">Hi 👋, I'm Anukriti</h1>
 <h3 align="center">Student at IIT (BHU) Varanasi</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuukriti&label=Profile%20views&color=0e75b6&style=flat" alt="anuukriti" /> </p>
+<img align="right" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+
 - 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **anukriti.student.che21@itbhu.ac.in**
