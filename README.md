@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **DSA** and **Web Dev**
 
 - 📫 Reach me: <br/> **anukriti.student.che21@itbhu.ac.in**
-- <img align="center" height="20" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>  My portfolio: <br/> anukriti.me
+- <img align="center" height="20" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>  My portfolio: <br/> <a href="anukriti.me" target="blank">anukriti.me</a>
 
 <br/>
 <h3 align="left">Connect with me:</h3>
